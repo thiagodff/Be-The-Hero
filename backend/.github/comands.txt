@@ -1,0 +1,9 @@
+npx knex init // cria o arquivo ./knexfile.js
+
+npx knex migrate:make create_ongs // cria migration create_ongs
+
+npx knex migrate:latest // executa a migration
+
+npx knex migrate:rollback // desfaz a ultima migration
+
+npx knex // lista todos os comandos disponiveis

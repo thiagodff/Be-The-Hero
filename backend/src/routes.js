@@ -1,14 +1,12 @@
 const express = require("express");
 
-const app = express();
+const routes = express.Router();
 
-app.use(express.json());
-
-app.get("/", (req, res) => {
+routes.get("/users", (req, res) => {
   return res.json({
     evento: "Semana Omnistack 11.0",
     aluno: "Thiago F Dornelles"
   });
 });
 
-app.listen(3333);
+module.exports = routes;
