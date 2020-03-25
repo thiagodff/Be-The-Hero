@@ -44,6 +44,8 @@ This app features all the latest tools and practices in development!
 
 #### Routes
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20The%20Hero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fthiagodff%2Fbe-the-hero%2Fmaster%2Fbackend%2F.github%2FInsomnia_be-the-hero.json)
+
 ### Getting started with the frontend app
 
 Coming soon
