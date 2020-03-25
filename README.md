@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="" alt="BeTheHero" width="120">
+  <img src="./frontend/src/assets/logo.svg" alt="BeTheHero" width="120">
 <br>
 <br>
 Be The Hero
