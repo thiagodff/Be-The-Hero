@@ -41,7 +41,7 @@ export default function Incidents() {
             <Text style={styles.incidentProperty}>CASO:</Text>
             <Text style={styles.incidentValue}>Cadelinha atropelada</Text>
 
-            <Text style={styles.incidentProperty}>VALRO:</Text>
+            <Text style={styles.incidentProperty}>VALOR:</Text>
             <Text style={styles.incidentValue}>R$ 120,00</Text>
 
             <TouchableOpacity style={styles.detailsButton} onPress={navigateToDetail}>
